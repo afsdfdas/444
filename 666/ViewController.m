@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"小红,韩梅梅");
     NSLog(@"小刚");
+    NSLog(@"海妹妹,与猪八戒");
 }
 
 - (void)didReceiveMemoryWarning {
